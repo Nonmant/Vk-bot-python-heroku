@@ -1,0 +1,8 @@
+{
+  "Authorization": "Login Pass",
+  "Content-Type": "application/octet-stream",
+  "Dropbox-API-Arg":{
+    "path": "/vkbotsfreelance/Bot1.json",
+    "mode":"overwrite"
+    }
+}
